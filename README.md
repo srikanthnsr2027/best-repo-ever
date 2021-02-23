@@ -1,3 +1,7 @@
 # best-repo-ever
 
-new changes made for merge conflict resolving
+
+new changes made for merge conflict resolving second time
+
+
+
